@@ -1,0 +1,28 @@
+name: 886 Brew Co.
+favicon: null
+layout_spectrum: 0.6157254800200462
+typography_spectrum: 0.2127805557101965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09147929050959647
+  lightness: 0.6083315790165216
+  saturation: 0.8960318895988166
+  rhythmicContrast: 0.2638785564340651
+purpose: []
